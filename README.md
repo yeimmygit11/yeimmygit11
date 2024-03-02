@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **yeimmy1197@gmail.com**
 
-- 📄 Know about my experiences [I have worked on projects focused on the collection, cleaning, processing and visualization of physiological signals (EEG and EMG) using Python and open-source wearable boards. I also worked for almost a year and a half as an RPA engineer, automating administrative processes in health area using Python and a Javascript based program called Electroneek.](I have worked on projects focused on the collection, cleaning, processing and visualization of physiological signals (EEG and EMG) using Python and open-source wearable boards. I also worked for almost a year and a half as an RPA engineer, automating administrative processes in health area using Python and a Javascript based program called Electroneek.)
+- 📄 Know about my experiences I have worked on projects focused on the collection, cleaning, processing and visualization of physiological signals (EEG and EMG) using Python and open-source wearable boards. I also worked for almost a year and a half as an RPA engineer, automating administrative processes in health area using Python and a Javascript based program called Electroneek.](I have worked on projects focused on the collection, cleaning, processing and visualization of physiological signals (EEG and EMG) using Python and open-source wearable boards. I also worked for almost a year and a half as an RPA engineer, automating administrative processes in health area using Python and a Javascript based program called Electroneek.
 
 - ⚡ Fun fact **I love the gym and playing soccer**
 
